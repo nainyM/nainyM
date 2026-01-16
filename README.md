@@ -1,4 +1,4 @@
-## Hi there, I am Nainy 👋
+## Hi there, I am Nainy Engineer at Heart | Food & Travel Enthusiast 👋
 
 
 A senior product manager responsible for multiple B2B and B2C product surfaces, from discovery to launch. I excel at translating company strategy and complex enterprise problems into buildable roadmaps, defining key success metrics such as adoption, conversion, latency, cost, and explainability. I have  ensured that shipped features support business success. I work closely with the customers to uncover buying friction, adoption gaps, and trust concerns. I have a knack for writing crisp PRDs that help engineering and ML teams move fast, defining model requirements, evaluation criteria, guardrails, and rollout plans.
